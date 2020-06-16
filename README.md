@@ -1,7 +1,7 @@
 # Simply-Recruitment-Platform-for-Dementia-Patients
 Web project for INFO30005
 
-This is the finalized version of our project's front-end. We are team HealthNextDoor, and we would like to solve the problem "how might we better support family caregivers as they care for a loved one with dementia". We would like to use this website to help Dementia patient and their families.
+This is the finalized version of our project. We are team HealthNextDoor, and we would like to solve the problem "how might we better support family caregivers as they care for a loved one with dementia". We would like to use this website to help Dementia patient and their families.
 
 Features
 
