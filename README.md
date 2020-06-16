@@ -1,5 +1,6 @@
 # Simply-Recruitment-Platform-for-Dementia-Patients
 Web project for INFO30005
+http://healthnextdoor.herokuapp.com/
 
 This is the finalized version of our project. We are team HealthNextDoor, and we would like to solve the problem "how might we better support family caregivers as they care for a loved one with dementia". We would like to use this website to help Dementia patient and their families.
 
@@ -76,7 +77,7 @@ Set Up
 Running
 
     please run npm start and then visit the website in the browser:
-    -- http://healthnextdoorfront.herokuapp.com/
+    -- http://healthnextdoor.herokuapp.com/
 
 Acknowledgement
 
